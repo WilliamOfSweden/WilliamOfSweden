@@ -1,6 +1,6 @@
 # Hi, I'm William 👋
 
-I'm a freelance front-end (JAMstack) web developer from Norrköping, Sweden 🇸🇪. I enjoy working on well-crafted software and try to steadily add value with the projects I work on.
+I'm a freelance front-end (JAMstack) developer from Norrköping, Sweden 🇸🇪. I enjoy working on well-crafted software and try to steadily add value with the projects I work on.
 
 Currently I'm attending a full-stack program at [Integrify](https://www.integrify.io) to further broaden my skills.
 
