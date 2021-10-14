@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/william-daghouz/">
+<a href="https://linkedin.com/in/william-daghouz/" rel="noreferrer noopener">
   <img
     src="./linkedin-logo.svg"
     height="30px"
@@ -6,7 +6,8 @@
   />
 </a>
 &nbsp;
-<a href="https://twitter.com/WilliamDaghouz">
+&nbsp;
+<a href="https://twitter.com/WilliamDaghouz" rel="noreferrer noopener">
     <img
     src="./twitter-logo.svg"
     height="30px"
