@@ -1,7 +1,7 @@
 <a href="https://linkedin.com/in/william-daghouz/" rel="noreferrer noopener">
   <img
     src="./linkedin-logo.svg"
-    height="30px"
+    height="20vw"
     alt="LinkedIn Logo"
   />
 </a>
@@ -10,7 +10,7 @@
 <a href="https://twitter.com/WilliamDaghouz" rel="noreferrer noopener">
     <img
     src="./twitter-logo.svg"
-    height="30px"
+    height="20vw"
     alt="Twitter Logo"
   />
 </a>
