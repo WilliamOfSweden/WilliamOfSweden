@@ -1,3 +1,12 @@
+<a href="https://daghouz.com/" rel="noreferrer noopener">
+  <img
+    src="./github-image.png"
+    width="100%"
+    alt="Website | Amada Style"
+    title="Amada Style"
+  />
+</a>
+
 <a href="https://linkedin.com/in/william-daghouz/" rel="noreferrer noopener">
   <img
     src="./linkedin-logo.svg"
@@ -14,10 +23,3 @@
     alt="Twitter Logo"
   />
 </a>
-
-<img
-  src="./github-image.png"
-  width="100%"
-  alt="Website | Amada Style"
-  title="Amada Style"
-/>
