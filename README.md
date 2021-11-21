@@ -4,4 +4,4 @@ I'm a ex-lawyer turned **full-stack developer** from Norrköping, Sweden. I curr
 
 I'm passionate about the **Jamstack** architecture &amp; **blockchain** technologies.
 
-You can also find me on [LinkedIn](https://linkedin.com/in/daghouz).
+You can also find me on **[LinkedIn](https://linkedin.com/in/daghouz)**.
