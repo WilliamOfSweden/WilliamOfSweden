@@ -1,7 +1,7 @@
 # Hi, I'm William 👋
 
-I'm an ex-lawyer turned **software engineer**, based in Norrköping, Sweden. I currently work at **[SwissBorg](https://www.swissborg.com)** as a **Web Developer**.
+I'm a lawyer turned **software engineer**, based in Norrköping, Sweden. I currently work at **[SwissBorg](https://www.swissborg.com)** as a **Web Developer**.
 
-I have a preference for the **Jamstack** architecture and a predilection of everything related to **Web3**. I'm a strong advocate of **accessibility** & **progressive enhancement**.
+I'm a disciple of **software craftsmanship** and an advocate of **web accessibility** & **progressive enhancement**.
 
 You can also find me on **[LinkedIn](https://linkedin.com/in/daghouz)**.
